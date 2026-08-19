@@ -1,5 +1,5 @@
 # Привет, я Евгений 👋
-
+https://gosu-devops.ru
 **DevOps Engineer** · 9+ лет · Kubernetes, автоматизация, observability
 
 ## 🛠 Технологии
