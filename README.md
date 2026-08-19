@@ -16,7 +16,3 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/dmesg-gosu)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/dmesg-gosu)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/dmesg-gosu)
-
-## 📊 Статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmesg-gosu&show_icons=true&theme=dark)
