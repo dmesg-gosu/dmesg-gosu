@@ -46,17 +46,10 @@ https://gosu-devops.ru
 
 ---
 
-## 📊 Ключевые метрики
-
-- **SLA**: 99.7% критичных сервисов
-- **MTTR**: 15 минут (вместо часов)
-- **RTO**: < 5 минут для критичных сервисов
-- **Масштаб**: 1000+ серверов и подов Kubernetes
-- **Оптимизация**: 42–56% снижение затрат на облаке и bare-metal
-
 ## 📚 Контакты
 
 - 🌐 [gosu-devops.ru](https://gosu-devops.ru)
 - 📧 [zhecao98@gmail.com](mailto:zhecao98@gmail.com)
 - 💬 [@gosu_ai](https://t.me/gosu_ai)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/evgeniy-samsonov-438139411/)
+- 💼 [HH.ru](https://chelyabinsk.hh.ru/resume/cf9fad38ff07a3cfa10039ed1f686452486673)
