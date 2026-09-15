@@ -1,6 +1,3 @@
-# Привет, я Евгений 👋
-https://gosu-devops.ru
-
 **DevOps Engineer** Kubernetes, автоматизация, observability
 
 ## 🛠 Технологии
